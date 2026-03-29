@@ -13,6 +13,8 @@ public class CommonApplication {
 		
 		User data = new User();
 		data.setName("aldi");
+		
+		System.out.println(data);
 	}
 
 }
